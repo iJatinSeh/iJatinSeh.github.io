@@ -31,7 +31,7 @@ body {
     margin: 10px;
     position: relative;
     transition: all 1s ease-in;
-    -webkit-transition: all 1ms ease-in;
+    -webkit-transition: all 1s ease-in;
 }
 
 .panel h3 {
